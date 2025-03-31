@@ -1,6 +1,38 @@
 # 💫 About Me:
-Hi there, I'm Glen Rio Aristo! 👋<br>🚀 Fullstack Developer | Backend & Frontend Engineer<br><br>Saya seorang Fullstack Developer dengan pengalaman dalam Node.js, PHP, dan JavaScript. Saya memiliki keahlian dalam pengembangan backend, frontend, integrasi API, serta membangun aplikasi web yang scalable dengan pendekatan clean code.<br><br>🔥 What I Do<br>Backend Development: Menggunakan Express.js, Next.js, Laravel untuk membangun sistem yang handal dan efisien.<br><br>Frontend Development: Membangun UI/UX yang interaktif dengan React.js & Next.js.<br><br>Database Management: Berpengalaman dengan PostgreSQL & MySQL untuk pengelolaan data yang optimal.<br><br>API Integration: Menghubungkan layanan eksternal seperti Midtrans (payment gateway) dan Google Authentication.<br><br>Agile & Remote Work: Terbiasa dengan daily stand-up meetings, version control (Git), dan metode Agile untuk memastikan produktivitas yang tinggi.<br><br>📌 Notable Projects<br>AIGENSEE Online Course Platform 🎨<br>Membangun platform kursus online berbasis AI dengan integrasi Midtrans payment gateway dan Google Authentication.<br><br>Educational Games for Indonesian Ministry of Education 🎮<br>Mengembangkan 6 game edukasi interaktif untuk Kementerian Pendidikan dan Kebudayaan Republik Indonesia.<br><br>📫 Let's Connect!<br>📧 Email: glenrioariesto@gmail.com<br>📞 WhatsApp: 089529307135<br>💻 GitHub: glenrioariesto<br><br>Terima kasih telah mampir ke profil saya! 🚀🔥
+Hi there, I'm Glen Rio Aristo! 👋  
+🚀 **Fullstack Developer | Backend & Frontend Engineer**  
 
+Saya seorang **Fullstack Developer** dengan pengalaman dalam **Node.js, PHP, dan JavaScript**.  
+Saya memiliki keahlian dalam **pengembangan backend, frontend, integrasi API**, serta membangun aplikasi web yang **scalable** dengan pendekatan **clean code**.  
+
+<details>
+  <summary>🔥 What I Do</summary>
+
+- **Backend Development**: Menggunakan **Express.js, Next.js, Laravel** untuk membangun sistem yang handal dan efisien.  
+- **Frontend Development**: Membangun UI/UX yang interaktif dengan **React.js & Next.js**.  
+- **Database Management**: Berpengalaman dengan **PostgreSQL & MySQL** untuk pengelolaan data yang optimal.  
+- **API Integration**: Menghubungkan layanan eksternal seperti **Midtrans (payment gateway)** dan **Google Authentication**.  
+- **Agile & Remote Work**: Terbiasa dengan **daily stand-up meetings, version control (Git), dan metode Agile** untuk memastikan produktivitas yang tinggi.  
+
+</details>
+
+<details>
+  <summary>📌 Notable Projects</summary>
+
+- **AIGENSEE Online Course Platform** 🎨  
+  Membangun platform kursus online berbasis AI dengan integrasi **Midtrans payment gateway** dan **Google Authentication**.  
+
+- **Educational Games for Indonesian Ministry of Education** 🎮  
+  Mengembangkan **6 game edukasi** interaktif untuk **Kementerian Pendidikan dan Kebudayaan Republik Indonesia**.  
+
+</details>
+
+## 📫 Let's Connect!
+📧 **Email**: [glenrioariesto@gmail.com](mailto:glenrioariesto@gmail.com)  
+📞 **WhatsApp**: [089529307135](https://wa.me/6289529307135)  
+💻 **GitHub**: [glenrioariesto](https://github.com/glenrioariesto)  
+
+Terima kasih telah mampir ke profil saya! 🚀🔥  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/glenrioaristo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Glen Rio Aristo) 
